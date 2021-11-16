@@ -10,3 +10,8 @@ def sum(x, y):
 	print("sum = " + result1)
 
 sum(num1,num2)
+
+
+def mult(x,y):
+	result = x * y
+	print(result)

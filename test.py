@@ -7,3 +7,5 @@ print("calculate value")
 def sum(x, y):
 	result = x + y
 	print(result)
+
+sum(num1,num2)

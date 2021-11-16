@@ -7,3 +7,8 @@ print("calculate value")
 def sum(x, y):
 	result = x + y
 	print(result)
+
+def mult(x,y):
+	result = x * y
+	print(result)
+	

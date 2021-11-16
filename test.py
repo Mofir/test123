@@ -14,4 +14,7 @@ sum(num1,num2)
 
 def mult(x,y):
 	result = x * y
-	print(result)
+	result1 = str(result)
+	print("multiple = " + result)
+
+mult(num1,num2)
